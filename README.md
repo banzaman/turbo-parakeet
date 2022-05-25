@@ -15,8 +15,8 @@ Additional description about the project and its features.
 
 👤 **MARK RUBANZA**
 
-- GitHub: [@githubhandle](https://github.com/banzaman)
-- Twitter: [@twitterhandle](https://twitter.com/banzamarq10)
+- GitHub: [banzaman](https://github.com/banzaman)
+- Twitter: [@banzamarq10](https://twitter.com/banzamarq10)
 
 ## 🤝 Contributing
 
