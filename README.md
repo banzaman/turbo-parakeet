@@ -4,7 +4,7 @@
 
 TRIBUTE PAGE
 
-> Tribute of Dr. Norman Borlaug's life.
+> Tribute of Dr. Norman Borlaug's impactful events of his life.
 
 Additional description about the project and its features.
 
